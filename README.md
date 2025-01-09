@@ -1,4 +1,4 @@
-# README: Macronutrient Needs Across Lifespan
+# Macronutrient Needs Across Lifespan
 
 ## Overview
 This report compares the macronutrient needs of three key age groups: infants, adults, and the elderly. It highlights the differences in energy, carbohydrate, protein, and fat requirements, providing tailored meal plan suggestions for each group.
